@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### Desenvolvedor de Software Full-Stack
+### Desenvolvedor de Software Full-Stack júnior
 
-Técnico em Informática para Internet formado pelo SENAI Rinaldo Campos Soares.
+Técnico em Informática para Internet formado pelo SENAI Rinaldo Campos Soares e pretendo ingressar na faculdade de Engenharia de Software.
 
 Buscando evoluir constantemente como desenvolvedor e transformar conhecimentos em soluções práticas.
 
