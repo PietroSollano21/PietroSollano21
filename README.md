@@ -61,8 +61,8 @@ Aplicação web desenvolvida individualmente para gerenciamento de agendamentos 
 
 ## 🎯 Objetivos
 
-- Aprofundar meus conhecimentos em desenvolvimento Back-end.
-- Aprimorar minhas habilidades com C# e ASP.NET Core.
+- Aprofundar meus conhecimentos em desenvolvimento de software.
+- Aprimorar minhas habilidades com C# e ASP.NET Core e outras linguagens de programação.
 - Aprender novas tecnologias e arquiteturas de software.
 - Participar de projetos colaborativos e adquirir experiência profissional.
 
