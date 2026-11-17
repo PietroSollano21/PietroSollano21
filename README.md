@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Desenvolvedor de Software | Foco em Back-end
+### Desenvolvedor de Software Full-Stack
 
 Técnico em Informática para Internet formado pelo SENAI Rinaldo Campos Soares.
 
