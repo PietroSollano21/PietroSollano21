@@ -39,7 +39,6 @@ Durante esse desenvolvimento, tive contato com desafios reais envolvendo regras 
 - **Back-end:** C#, ASP.NET Core e desenvolvimento de APIs.
 - **Front-end:** HTML, CSS e JavaScript.
 - **Banco de dados:** MySQL.
-- **Integrações:** API do Mercado Pago.
 - **Versionamento:** Git e GitHub.
 
 ---
@@ -54,7 +53,6 @@ Aplicação web desenvolvida individualmente para gerenciamento de agendamentos 
 - Gerenciamento de agendamentos.
 - Controle de horários e disponibilidade.
 - Integração com banco de dados MySQL.
-- Processamento de pagamentos online com Mercado Pago.
 - Desenvolvimento da lógica de negócio utilizando C#.
 
 ---
