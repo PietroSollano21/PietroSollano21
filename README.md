@@ -18,7 +18,7 @@ Sou formado em Técnico em Informática para Internet pelo SENAI Rinaldo Campos 
 
 Atualmente, administro e desenvolvo sozinho um sistema de agendamento de quadras de Beach Tennis, projeto no qual aplico meus conhecimentos em C#, JavaScript e MySQL.
 
-Durante esse desenvolvimento, tive contato com desafios reais envolvendo regras de negócio, gerenciamento de agendamentos, manipulação de dados e integração com serviços externos, como a API do Mercado Pago.
+Durante esse desenvolvimento, tive contato com desafios reais envolvendo regras de negócio, gerenciamento de agendamentos, manipulação de dados e integração com serviços externos, como a API do Resend.
 
 ---
 
